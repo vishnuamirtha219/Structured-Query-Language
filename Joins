@@ -1,0 +1,7 @@
+Combine or merge two or more columns based on the realted column
+
+Different types of SQL Joins:
+1. Inner Join: Return only matched values from both the tables.
+2. Left Join: Returns all the values from left table along with the matched values of right table.
+3. Right Join: Returns all the values from right table along with the matched values of left table.
+4. Full Join: Retuns all the values from all the tables.
