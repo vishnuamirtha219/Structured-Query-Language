@@ -1,0 +1,4 @@
+Stored Procedures
+  A stored code that can reuse again in the code by calling its name to use its functions.
+
+Pass parameters to a stored procedure, so that the stored procedure can act based on the parameter value(s) that is passed.
