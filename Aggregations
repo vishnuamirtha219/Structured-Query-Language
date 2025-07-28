@@ -1,0 +1,13 @@
+Aggregations 
+  To perform calulations with many values and returns as a single value
+
+Used along with:
+  1.GROUP BY
+  2.SELECT
+
+Functions:
+1.MIN() - Return smallest value
+2.MAX() - Return largest value
+3.COUNT() - Return the number of rows
+4.SUM() - Return total sum
+5.AVG() - Return the average of total
